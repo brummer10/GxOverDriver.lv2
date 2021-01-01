@@ -1,2 +1,2 @@
 # GxOverDriver.lv2
-Overdirve with level and tone control
+Overdrive with level and tone control
